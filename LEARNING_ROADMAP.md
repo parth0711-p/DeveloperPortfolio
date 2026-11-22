@@ -1,7 +1,7 @@
 # My 6-Semester Learning Roadmap
 
 **Name:** Parth Badwer  
-**Roll Number:** 26101730080  
+**Roll Number:** 2601730080  
 **Section:** AI ML SEC D  
 **Specialisation:** Data Science & AI/ML (Track B)  
 **Mentor:** Not decided
