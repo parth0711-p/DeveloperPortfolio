@@ -1,52 +1,34 @@
-# Parth Badwer — Developer Portfolio
+# DeveloperPortfolio
 
-> B.Tech CSE Student | K.R. Mangalam University | Batch 2026-2030
+Welcome to my Developer Portfolio! I am Parth Badwer, a B.Tech CSE student at K.R. Mangalam University, interested in Artificial Intelligence, Machine Learning and Cybersecurity.
 
----
+This repository documents my technical learning, Linux practice, shell scripting, API interaction and professional development throughout my degree.
 
-## About Me
+## Portfolio Sections
 
-I am a Computer Science and Engineering student interested in AI/ML, Cybersecurity, and Software Development.
+### 1. Linux
+System profile, Linux command outputs and binary number representation.
 
-Currently learning Python, Linux, Bash scripting, and Git/GitHub.
+### 2. Shell Scripts
+Automation scripts for system information reporting and folder backups.
 
-## Repository Index
+### 3. API
+GitHub profile data and JSONPlaceholder API responses using curl and jq.
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/parth0711-p/cse103-lab-LAB3) | CSE103 academic lab work | Python, Git, Bash | Active |
-| [developer-portfolio](https://github.com/parth0711-p/developer-portfolio) | My portfolio index | Markdown | Active |
+### 4. Portfolio
+Technical resume, semester-wise learning roadmap and professional portfolio website.
 
----
+## Skills
 
-## Current Skills
-
-- Python (Beginner)
-- Linux / Bash
+- Python
+- Linux
+- Bash Scripting
 - Git and GitHub
-- VS Code
-- Postman
-- Markdown
+- HTML and CSS
+- JavaScript
+- API Interaction
 
----
+## Connect with Me
 
-## Learning Roadmap
-
-My goal is to develop strong programming and problem-solving skills while exploring AI/ML, Cybersecurity, and Software Development.
-
-## Progress Tracker
-
-- [x] Git and GitHub basics
-- [x] Repository organisation
-- [x] Python fundamentals
-- [ ] Advanced Python
-- [ ] Data Structures and Algorithms
-- [ ] AI/ML fundamentals
-- [ ] Cybersecurity fundamentals
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/parth0711-p
-- LinkedIn: https://www.linkedin.com/in/parth-badwer-1155b5432/
+- GitHub: [Parth Badwer](https://github.com/parth0711-p)
+- LinkedIn: [Parth Badwer](https://www.linkedin.com/in/parth-badwer-1155b5432/)
