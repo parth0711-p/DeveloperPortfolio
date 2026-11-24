@@ -1,0 +1,24 @@
+========================================
+       SYSTEM INFORMATION REPORT
+========================================
+Name: Parth Badwer
+Roll Number: 2601730080
+Date: Tue Nov 24 07:51:03 UTC 2026
+
+CPU Information:
+Model: Intel(R) Core(TM) i7-14700HX
+Number of Cores: 28
+
+Memory Information:
+Total Memory: 7.6Gi
+Used Memory: 604Mi
+
+Top 3 Processes by CPU Usage:
+    PID COMMAND         %CPU
+     86 systemd-udevd    0.2
+      1 systemd          0.0
+    116 networkd-dispat  0.0
+
+========================================
+Report generated successfully.
+========================================
